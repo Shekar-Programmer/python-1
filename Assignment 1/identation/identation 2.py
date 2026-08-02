@@ -1,0 +1,11 @@
+# Name: chandra shekar
+# Lab 06 - Task 2
+
+for i in range(1, 11):
+    if i % 2 == 0:
+        print(i, "Even")
+    else:
+        print(i, "Odd")
+        """
+        Output:
+        """
